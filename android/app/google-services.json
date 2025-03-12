@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "820766935718",
+    "firebase_url": "https://venuewonders-3794d-default-rtdb.firebaseio.com",
+    "project_id": "venuewonders-3794d",
+    "storage_bucket": "venuewonders-3794d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820766935718:android:5fce86920d05871d534267",
+        "android_client_info": {
+          "package_name": "com.example.admin_komao_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820766935718:android:75c00958dcb24dd7534267",
+        "android_client_info": {
+          "package_name": "com.example.graduate_plus_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820766935718:android:7b827873103a3a64534267",
+        "android_client_info": {
+          "package_name": "com.example.kamao_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820766935718:android:8fda333e60eb5700534267",
+        "android_client_info": {
+          "package_name": "com.example.smart_grocery_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820766935718:android:52414827145ea785534267",
+        "android_client_info": {
+          "package_name": "com.example.venue_wonders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
