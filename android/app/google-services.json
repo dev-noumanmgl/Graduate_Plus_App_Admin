@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "820766935718",
-    "firebase_url": "https://venuewonders-3794d-default-rtdb.firebaseio.com",
-    "project_id": "venuewonders-3794d",
-    "storage_bucket": "venuewonders-3794d.appspot.com"
+    "project_number": "453576192364",
+    "firebase_url": "https://graguateplus-default-rtdb.firebaseio.com",
+    "project_id": "graguateplus",
+    "storage_bucket": "graguateplus.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:820766935718:android:5fce86920d05871d534267",
+        "mobilesdk_app_id": "1:453576192364:android:099d6b73e7cdf01621c349",
         "android_client_info": {
-          "package_name": "com.example.admin_komao_app"
+          "package_name": "com.example.graduate_plus"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
+          "current_key": "AIzaSyA3J4XUi6fxckJS4--A_m4SUDP8581K28E"
         }
       ],
       "services": {
@@ -27,7 +27,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:820766935718:android:75c00958dcb24dd7534267",
+        "mobilesdk_app_id": "1:453576192364:android:9a5c74d01651ed2921c349",
         "android_client_info": {
           "package_name": "com.example.graduate_plus_admin"
         }
@@ -35,64 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:820766935718:android:7b827873103a3a64534267",
-        "android_client_info": {
-          "package_name": "com.example.kamao_app"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:820766935718:android:8fda333e60eb5700534267",
-        "android_client_info": {
-          "package_name": "com.example.smart_grocery_planner"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:820766935718:android:52414827145ea785534267",
-        "android_client_info": {
-          "package_name": "com.example.venue_wonders"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBCwOVvt0UMexi8LYhhFRO4CZFSunD24UI"
+          "current_key": "AIzaSyA3J4XUi6fxckJS4--A_m4SUDP8581K28E"
         }
       ],
       "services": {
